@@ -1,0 +1,17 @@
+{
+  "name": "dope-atom-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A short description of your syntax theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dope",
+    "gold"
+  ],
+  "repository": "https://github.com/dsblv/dope-atom-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
